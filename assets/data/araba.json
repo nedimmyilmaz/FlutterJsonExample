@@ -1,0 +1,53 @@
+[
+  {
+    "araba_adi": "Mercedes",
+    "ulke": "Almanya",
+    "kurulus": 1940,
+    "model": [
+      {
+        "model_adi": "A Serisi",
+        "fiyat": 16000,
+        "benzinli": false
+      },
+      {
+        "model_adi": "C Serisi",
+        "fiyat": 20000,
+        "benzinli": true
+      }
+    ]
+  },
+  {
+    "araba_adi": "BMW",
+    "ulke": "Almanya",
+    "kurulus": 1950,
+    "model": [
+      {
+        "model_adi": "M Serisi",
+        "fiyat": 30000,
+        "benzinli": true
+      },
+      {
+        "model_adi": "F Serisi",
+        "fiyat": 20000,
+        "benzinli": false
+      }
+    ]
+  },
+  {
+    "araba_adi": "Renault",
+    "ulke": "Fransa",
+    "kurulus": 1920,
+    "model": [
+      {
+        "model_adi": "Fluence Serisi",
+        "fiyat": 3000,
+        "benzinli": true
+      },
+      {
+        "model_adi": "Megane Serisi",
+        "fiyat": 20000,
+        "benzinli": false
+      }
+    ]
+  }
+]
